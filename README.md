@@ -1,2 +1,2 @@
-# CATSTester
+# CATS Tester
 Repo for CATS test case
