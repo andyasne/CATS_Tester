@@ -1,0 +1,27 @@
+Jenkins selenium configuration should also be stored in the repo.
+	
+Jenkins email should be-use Jenkins plugin extent reports
+o	Separate gmail tab
+o	Subject: Jenkins build test result #xxx, branch name, (45)successful ,(9) failed	
+	Message body: 
+		Browser Type: IE
+	Failed Tests(9)
+		sn. Testcase ID, Name , reason for failure, Screenshoot
+	Successful Tests(45)
+		Sn. Testcase ID, Name, duration
+  	
+
+On support folder create a bat file called SynchCatsTester that on executing(dbclicking) it pulls latest changes and commit and pushes the latest changes(testcase changes).[what if conflicts arise??]
+  
+Jenkins job-Cats Tester
+	can be scheduled
+	can be ordered to execute all tests via a public links
+	can be ordered to execute a spec test via link param
+	
+qa Jenkins site should be avail publicly (not showing now)
+
+change the jenkins settings for branches to be build by order of the repo
+
+a selenium node can be added dynamically from anystation
+
+tools : Nunit, reporting plugin,

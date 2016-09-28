@@ -1,1 +1,14 @@
+
+How to run Jenkins Tests on local machine?
+1.	Go to the repo folder () , and select the test case from the list.
+2.	Download the test case.
+3.	Use firefox extension called selenium IDE(Install from Here) , and open the test case through the IDE.
+4.	Just press run.
+
+How to create new test case?
+1.	Open the firefox extension called selenium, click New test , press record button.
+2.	Enter the data and do page actions action (checking checkboxs and submitting…).
+3.	When finished press record to stop recording.
+4.	Save the file.
+5.	Upload it to the Git Repo to share the test case and for Jenkins to test it on the system
   
