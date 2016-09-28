@@ -1,4 +1,6 @@
 Jenkins selenium configuration should also be stored in the repo.
+
+Testing proj for jenkins : dll proj,extends webdriver, on every build it import cs tesst cases 
 	
 Jenkins email should be-use Jenkins plugin extent reports
 o	Separate gmail tab
