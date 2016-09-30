@@ -13,5 +13,5 @@ Purpose
 
 •	Automate testing, use industry standard framework and procedure to facilitate testing.
 
-* A Tool to teach new developmers / novice users of how workflows/Business Activities are created / Prepared.
+•	A Tool to teach new developmers / novice users of how workflows/Business Activities are created / Prepared.
 
