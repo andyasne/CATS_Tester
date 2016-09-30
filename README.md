@@ -1,5 +1,7 @@
 # CATS_Tester
-Purpose
+
+<u> Purpose </u>
+
 
 •	To Create a central place for CATS Development team and interested stakeholders to store and manage all selenium test cases.
 
