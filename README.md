@@ -1,5 +1,7 @@
 # CATS_Tester
-Purpose
+
+<u> Purpose </u>
+
 
 •	To Create a central place for CATS Development team and interested stakeholders to store and manage all selenium test cases.
 
@@ -12,4 +14,6 @@ Purpose
 •	Discover problems of the system at the time of occurrence. 
 
 •	Automate testing, use industry standard framework and procedure to facilitate testing.
+
+•	A Tool to teach new developmers / novice users of how workflows/Business Activities are created / Prepared.
 

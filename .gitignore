@@ -243,3 +243,8 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+
+HowTo`s.txt
+SubscribeHERE4TestReportOnJenkinsBuildViaEmail.txt
+TestCaseTemplate.txt
+ToDo.txt
