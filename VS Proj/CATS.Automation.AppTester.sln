@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CATS_Tester", "CATS_Tester\CATS_Tester.csproj", "{E0659AB7-2B99-4D1A-B618-8F012825A0E9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Persistant", "Persistant", "{B26C1352-C2B3-4129-BCE8-271A72460FB5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LogicManager", "LogicManager", "{FEA17FB6-5A7F-4243-8515-6340B977EECD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{AA7178BE-B029-478F-B41C-0D2644186CEE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Entity", "Entity", "{5E111D53-9E95-4471-A03E-940E7C552130}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity", "Entity\Entity.csproj", "{5156C02F-41B9-49B8-A85E-2EE21D1E56A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicManager", "LogicManager\LogicManager.csproj", "{63F8DA6D-53E3-4751-9CCF-90B2A14E2CE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLDataAccess", "XMLDataAccess\XMLDataAccess.csproj", "{43FFB296-96E9-44EF-93B3-9434666D1223}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ExtLibrary", "ExtLibrary", "{4CD657CD-2213-440E-930B-09EBE6F584F2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BrowserRunner", "BrowserRunner", "{8D530264-D1AA-4D6D-812D-9C264563AD80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZAND.Automation.AppTester.BrowserRunner", "BrowserRunner\ZAND.Automation.AppTester.BrowserRunner.csproj", "{E253F968-9092-4828-8741-84D7ACA79D8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0659AB7-2B99-4D1A-B618-8F012825A0E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0659AB7-2B99-4D1A-B618-8F012825A0E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0659AB7-2B99-4D1A-B618-8F012825A0E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0659AB7-2B99-4D1A-B618-8F012825A0E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5156C02F-41B9-49B8-A85E-2EE21D1E56A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5156C02F-41B9-49B8-A85E-2EE21D1E56A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5156C02F-41B9-49B8-A85E-2EE21D1E56A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5156C02F-41B9-49B8-A85E-2EE21D1E56A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63F8DA6D-53E3-4751-9CCF-90B2A14E2CE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F8DA6D-53E3-4751-9CCF-90B2A14E2CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63F8DA6D-53E3-4751-9CCF-90B2A14E2CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63F8DA6D-53E3-4751-9CCF-90B2A14E2CE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43FFB296-96E9-44EF-93B3-9434666D1223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43FFB296-96E9-44EF-93B3-9434666D1223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43FFB296-96E9-44EF-93B3-9434666D1223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43FFB296-96E9-44EF-93B3-9434666D1223}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E253F968-9092-4828-8741-84D7ACA79D8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E253F968-9092-4828-8741-84D7ACA79D8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E253F968-9092-4828-8741-84D7ACA79D8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E253F968-9092-4828-8741-84D7ACA79D8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E0659AB7-2B99-4D1A-B618-8F012825A0E9} = {AA7178BE-B029-478F-B41C-0D2644186CEE}
+		{43FFB296-96E9-44EF-93B3-9434666D1223} = {B26C1352-C2B3-4129-BCE8-271A72460FB5}
+		{63F8DA6D-53E3-4751-9CCF-90B2A14E2CE8} = {FEA17FB6-5A7F-4243-8515-6340B977EECD}
+		{5156C02F-41B9-49B8-A85E-2EE21D1E56A3} = {5E111D53-9E95-4471-A03E-940E7C552130}
+		{E253F968-9092-4828-8741-84D7ACA79D8D} = {8D530264-D1AA-4D6D-812D-9C264563AD80}
+	EndGlobalSection
+EndGlobal
